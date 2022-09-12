@@ -30,4 +30,11 @@ afldgdfjgñsjfgks sjdfgkjsñdfkgjñs jskdflgjñksdfjgñls
 ```
 [Google](http://www.google.com "Titulo opcional")
 
-![Gatito](https://github.com/polettex/RepositorioDePrueba/blob/main/mclovinjesucristo.jpg "Imagen de McLovin")
+![McLovin](https://github.com/polettex/RepositorioDePrueba/blob/main/mclovinjesucristo.jpg "Imagen de McLovin")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:------------:|----------:|
+|Nombre | Apellido| Apellido 2!
+|Nombre2| Apellido 3 | Apellido 4|
+|col 3 | está alineada| derecha|
+|col 2 | esta alineada| centro |
